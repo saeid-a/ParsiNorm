@@ -4,9 +4,9 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-     name='parsinorm',  
+     name='parsinorm-fork',  
      version='0.0.2',
-     packages=['parsinorm'] ,
+     packages=['parsinorm-fork'] ,
      author="HaraAi",
      author_email="info@hara.ai",
      description="Persain Text Pre-Proceesing Tool",
